@@ -1,0 +1,10 @@
+public class students
+{
+    static void main(){
+        String[] students={"Hannah", "Allen", "Xander"};
+        System.out.println(students[0]);
+        
+        int[][] bEEp = { {1, 2, 3, 4}, {5, 6, 7} };
+        System.out.println(bEEp[0][1]);
+    }
+}
